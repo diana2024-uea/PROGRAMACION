@@ -1,0 +1,20 @@
+[
+    {
+        "titulo": "100 Años De Soledad",
+        "autor": "Gabriel Garcia Marquez",
+        "categoria": "Novela Realismo ",
+        "isbn": "000022"
+    },
+    {
+        "titulo": "Don Quijote De La Mancha ",
+        "autor": "Miguel De Cervantez",
+        "categoria": "Novela Clasica",
+        "isbn": "000033"
+    },
+    {
+        "titulo": "El Codigo Davinci ",
+        "autor": "Dan Brown",
+        "categoria": "Novela Historica",
+        "isbn": "000044"
+    }
+]
